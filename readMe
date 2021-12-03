@@ -1,0 +1,12 @@
+Title : ETL and Machine Learning with spark
+
+In this exercice, I’ll create an Apache Spark Machine learning application as end to end use case from data acquisition, transformation, model training and deployment.
+
+Objectives After completing reading, you will see and hopefelly be able also to:
+
+Pull-in data from the HMP dataset here
+Create a Spark data frame from the raw data
+Store this to parquet (in Cloud Object Store)
+Read it again (from Cloud Object Store)
+Deploy this model to Train a ML-Model on that data set
+Watson Machine Learning
